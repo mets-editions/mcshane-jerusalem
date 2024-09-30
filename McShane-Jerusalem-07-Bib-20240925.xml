@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="McShane-Jerusalem-07-Bib-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Bibliography</title><author>McShane, Kara L.</author><author>Wright, Mark J. B.</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp><resp from="2020-10" to="2020-12">Checked and corrected bibliographic references</resp><resp from="2022-01" to="2023-06">Encoded TEI</resp><resp from="2018-11" to="2023-06">Ensured adherence to METS Style Guide</resp><resp from="2018-11" to="2023-06">Entered corrections for digital edition</resp><resp from="2018-11" to="2023-06">Entered corrections for print edition</resp><resp from="2020-07" to="2021-07">Formatted for print edition</resp><resp from="2022-01" to="2023-06">Formatted for XML export</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2023-11" to="2023-11">Audited documents prior to print/export</resp><resp from="2020-07" to="2020-09">Checked and corrected bibliographic references</resp><resp from="2023-08" to="2023-09">Collected metadata</resp><resp from="2022-04" to="2024-06">Encoded TEI</resp><resp from="2020-07" to="2023-10">Ensured adherence to METS Style Guide</resp><resp from="2020-07" to="2023-10">Entered corrections for digital edition</resp><resp from="2020-07" to="2023-10">Entered corrections for print edition</resp><resp from="2022-04" to="2023-09">Formatted for XML export</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published Digital Edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp>Copyedited and proofread</resp><resp>Ensured adherence to METS Style Guide</resp><resp>Reviewed edition for consistency and audience</resp><resp>Reviewed edition for content and scholarship</resp><resp>Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-02" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Updated TEI Encoding</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp>Copyedited and proofread</resp><resp>Ensured adherence to METS Style Guide</resp><resp>Reviewed edition for consistency and audience</resp><resp>Reviewed edition for content and scholarship</resp><resp>Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-01" to="2024-03">Audited documents prior to print/export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2020-10" to="2021-01">Audited documents prior to print/export</resp><resp from="2020-10" to="2021-01">Collated and entered corrections</resp><resp from="2020-10" to="2021-01">Copyedited and proofread</resp><resp from="2018-11" to="2023-10">Ensured adherence to METS Style Guide</resp><resp from="2018-11" to="2023-10">Entered corrections for digital edition</resp><resp from="2018-11" to="2023-10">Entered corrections for print edition</resp><resp from="2020-10" to="2021-01">Reviewed edition for consistency and audience</resp><resp from="2020-10" to="2021-01">Reviewed edition for content and scholarship</resp><resp from="2020-10" to="2021-01">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mario Bisciotti</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lisa Fagin Davis</persName><orgName>Medieval Academy of America</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Sue Gleason</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Andrea Noto</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Caleb Prus</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Assistant Editor, Editorial Board</resp></respStmt><respStmt><persName>Alexander J. Zawacki</persName><orgName>University of Rochester</orgName><resp>Mellon Fellow in the Digital Humanities, Editorial Staff</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Unknown</author><editor>McShane, Kara L.</editor><editor>Wright, Mark J. B.</editor><title>The Destruction of Jerusalem, or Titus and Vespasian</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2021</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/mcshane-jerusalem/blob/main/mcshane-jerusalem-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="McShane-Jerusalem-07-Bib"/><div type="text">
+ <p style="heading">Manuscripts and Documents</p>
+ <listBibl><bibl>New Haven, Beinecke Library, MS Osborn A.11, fols. 1r–38v. Online at <ref target="https://brbl-dl.library.yale.edu/vufind/Record/4161295" type="external">https://brbl-dl.library.yale.edu/vufind/Record/4161295</ref>.</bibl>
+ <bibl>Oxford, Bodleian, MS Digby 230, fols. 195r–223v.</bibl>
+ <bibl>Oxford, Bodleian, MS Douce 78, fols. 19r–76v.</bibl>
+ <bibl>Oxford, Bodleian, MS Douce 126.</bibl>
+ <bibl>Oxford, Bodleian, MS Laud Misc. 622, fols. 1r–21v, 71v–72v.</bibl>
+ <bibl>London, British Library, MS Additional 10036, fols. 2r–61v.</bibl>
+ <bibl>London, British Library, MS Additional 36523, fols. 1r–71r.</bibl>
+ <bibl>London, British Library, MS Additional 36983, fols. 216r–255r.</bibl>
+ <bibl>London, British Library, MS Harley 4733, fols. 40v–127r .</bibl>
+ <bibl>Coventry, City Records Office MS 325/1, fols. 98r–129v.</bibl>
+ <bibl>Cambridge, Magdalene College, Cambridge, MS Pepys 2014 (formerly Pepys 37.)</bibl>
+ <bibl>New York, Pierpont Morgan, MS M.898, fols. 1r–100r.</bibl></listBibl>
+ <p style="heading">Primary Sources</p>
+ <listBibl><bibl>Alighieri, Dante. <hi rend="italic">The Divine Comedy: Inferno</hi>. Trans. Charles S. Singleton. Vol. 1. Princeton: Princeton University Press, 1977.</bibl>
+ <bibl>Ammianus Marcellinus. <hi rend="italic">History: Books 27–31</hi>. <hi rend="italic">Excerpta Valensiana</hi>. Trans. John C. Rolfe. Cambridge, MA: Harvard University Press, 1939.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">History: Books 20–26</hi>. Trans. John C. Rolfe. Cambridge, MA: Harvard University Press, 1940.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">History: Books 14–19</hi>. Trans. John C. Rolfe. Cambridge, MA: Harvard University Press, 1950.</bibl>
+ <bibl>Andrew, Malcolm, and Ronald Waldron, eds. <hi rend="italic">Sir Gawain and the Green Knight</hi>. In <hi rend="italic">The Poems of the Pearl Manuscript: Pearl, Cleanness, Patience, Sir Gawain and the Green Knight</hi>. Exeter: University of Exeter Press, 1978. Rpt. 2007. Pp. 207–300.</bibl>
+ <bibl>Appian. <hi rend="italic">The Iberian War</hi>. In <hi rend="italic">Roman History</hi>. Ed. and trans. Brian McGing. Vol. 1. Cambridge, MA: Harvard University Press, 2019. Pp. 136–307.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Mithridatic War</hi>. In <hi rend="italic">Roman History</hi>. Ed. and trans. Brian McGing. Vol. 3. Cambridge, MA: Harvard University Press, 2019. Pp. 146–393.</bibl>
+ <bibl>Aquinas, Thomas. <hi rend="italic">Summa Theologica</hi>. Vol. 28: Law and Political Theory (Ia2æ. 90–97). Ed. Thomas Gilby. Cambridge: Cambridge University Press, 2006.</bibl>
+ <bibl>Augustine, Saint. <hi rend="italic">The City of God</hi>. Trans. Demetrius B. Zema, Gerald G. Walsh, Grace Monahan, and Daniel J. Honan. 3 vols. Washington D. C.: The Catholic University of America Press, 1950–54.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Trinity</hi>. Trans. Stephen McKenna. Washington, D.C.: The Catholic University of America Press, 2002.</bibl>
+ <bibl>Boccaccio, Giovanni. <hi rend="italic">The Decameron</hi>. Trans. G. H. McWilliam. 2nd edition. London: Penguin Books, 2003.</bibl>
+ <bibl>Bonaventure, Saint. <hi rend="italic">The Mind’s Road to God</hi>. Trans. George Boas. Upper Saddle River, NJ: Prentice-Hall, 1953.</bibl>
+ <bibl>Boyarin, Adrienne Williams, ed. and trans. <hi rend="italic">The Siege of Jerusalem</hi>. Toronto: Broadview Press, 2014.</bibl>
+ <bibl>Caesar. <hi rend="italic">The Gallic War</hi>. Trans. H. J. Edwards. Cambridge, MA: Harvard University Press, 1917.</bibl>
+ <bibl>Cassiodorus. <hi rend="italic">Institutions of Divine and Secular</hi><hi rend="italic"> Learning and On the Soul</hi>. Trans. James W. Halporn. Liverpool: Liverpool University Press, 2004.</bibl>
+ <bibl>Chandler, John H., ed. <hi rend="italic">The King</hi><hi rend="italic"> of Tars</hi>. Kalamazoo, MI: Medieval Institute Publications, 2015.</bibl>
+ <bibl>Chaucer, Geoffrey. <hi rend="italic">The Riverside Chaucer</hi>. Gen. Ed. Larry D. Benson. 3rd edition. Boston: Houghton Mifflin, 1987.</bibl>
+ <bibl>Cicero. <hi rend="italic">Pro Flacco</hi>. In <hi rend="italic">In Catilinam 1–4</hi>. <hi rend="italic">Pro Murena</hi>. <hi rend="italic">Pro Sulla</hi>. <hi rend="italic">Pro Flacco</hi>. Trans. C. Macdonald. Cambridge, MA: Harvard University Press, 1976. Pp. 413–557.</bibl>
+ <bibl>Coletti, Theresa, ed. <hi rend="italic">The Digby Mary Magdalene Play</hi>. Kalamazoo, MI: Medieval Institute Publications, 2018.</bibl>
+ <bibl>Comestor, Peter. <hi rend="italic">Historia Scholastica</hi>. In <hi rend="italic">Patrologia Latina</hi>. Vol. 198. Ed. J. P. Migne. Paris, Petit-Montrouge,1853. Columns 1053–1722.</bibl>
+ <bibl>Curley, Michael J., trans. <hi rend="italic">Physiologus</hi>. Austin: University of Texas Press, 1979.</bibl>
+ <bibl>Davidson, Clifford, ed. <hi rend="italic">The York Corpus Christi Plays</hi>. Kalamazoo, MI: Medieval Institute Publications, 2011.</bibl>
+ <bibl>D’Evelyn, Charlotte, and Anna J. Mill, eds. <hi rend="italic">The South English Legendary: Edited from Corpus Christi College Cambridge MS. 145 and British Museum MS. Harley 2277 with Variants from Bodley MS. Ashmole 43 and British Museum MS. Cotton Julius D. IX</hi>. 3 vols. EETS o.s. 235, 236, 244. London: Oxford Univeristy Press, 1956–59.</bibl>
+ <bibl>Ehrman, Bart D., and Zlatko Pleŝe, eds. and trans. <hi rend="italic">The Apocryphal Gospels: Texts and</hi><hi rend="italic"> Translations</hi>. Oxford: Oxford University Press, 2011.</bibl>
+ <bibl>Eidelberg, Shlomo, ed. and trans. <hi rend="italic">The Jews and the Crusaders: The Hebrew Chronicles of</hi><hi rend="italic"> the First and Second Crusades</hi>. Hoboken, NJ: KTAV Publishing House, 1996.</bibl>
+ <bibl>Eusebius. <hi rend="italic">The Ecclesiastical History</hi>. Vol. 1. Trans. Kirsopp Lake. Vol. 2. Trans. J. E. L. Oulton and H. J. Lawlor. Cambridge, MA: Harvard University Press, 1975.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Life of Constantine</hi>. Trans. Averil Cameron and Stuart G. Hall. Oxford: Oxford University Press, 1999.</bibl>
+ <bibl>Fischer, Rudolf, ed. “<hi rend="italic">Vindicta Salvatoris</hi>.” <hi rend="italic">Archiv</hi><hi rend="italic"> für das Studium der neueren Sprachen und Literaturen</hi> 111 (1903), 285–98 and 112 (1904), 25–45.</bibl>
+ <bibl>Florus. <hi rend="italic">Epitome of Roman History</hi>. Trans. E. S. Forster. Cambridge, MA: Harvard University Press, 1929.</bibl>
+ <bibl>Ford, Alvin E, ed. <hi rend="italic">La Vengeance de Nostre-Seigneur: The Old and Middle</hi><hi rend="italic"> French Prose Versions: The Version of Japheth</hi>. Toronto: Pontifical Institute for Medieval Studies, 1984.</bibl>
+ <bibl>Foster, Edward E., ed. <hi rend="italic">Amis and Amiloun</hi>. In <hi rend="italic">Amis and Amiloun, Robert of Cisyle, and Sir Amadace</hi>. Kalamazoo, MI: Medieval Institute Publications,1997. Pp. 1–88.</bibl>
+ <bibl>Gower, John. <hi rend="italic">Confessio Amantis</hi>. Ed. Russell A. Peck, with Latin translations by Andrew Galloway. 3 vols. 2nd edition. Kalamazoo, MI: Medieval Institute Publications, 2006–13.</bibl>
+ <bibl>Gryting, Loyal A. T., ed. <hi rend="italic">The</hi><hi rend="italic"> Oldest Version of the Twelfth Century Poem La Venjance Nostre</hi><hi rend="italic"> Seigneur</hi>. Ann Arbor: University of Michigan Press, 1952.</bibl>
+ <bibl>Hanna, Ralph, and David Lawton, eds. <hi rend="italic">The Siege of Jerusalem</hi>. EETS o.s. 320. Oxford: Oxford University Press, 2003.</bibl>
+ <bibl>Herbert, J. A., ed. <hi rend="italic">Titus and Vespasian, or The Destruction of Jerusalem in</hi><hi rend="italic"> Rhymed Couplets: Edited from the London and Oxford MSS</hi>. London: Roxburghe Club, 1905.</bibl>
+ <bibl>Herzman, Ronald B., Graham Drake, and Eve Salisbury, eds. <hi rend="italic">Four Romances of England: King</hi><hi rend="italic"> Horn, Havelok the Dane, Bevis of Hampton, Athelston</hi>. Kalamazoo, MI: Medieval Institute Publications, 1999.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Bevis of Hampton</hi>. In <hi rend="italic">Four Romances of England</hi>. Pp. 187–340.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Havelock the Dane</hi>. In <hi rend="italic">Four Romances of England</hi>. Pp. 73–185.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">King Horn</hi>. In <hi rend="italic">Four Romances of England</hi>. Pp. 11–70.</bibl>
+ <bibl>Herodotus. <hi rend="italic">The Persian Wars: Books 1–2</hi>. Trans. A. D. Godley. Cambridge, MA: Harvard University Press, 1920.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Persian Wars: Books 3–4</hi>. Trans. A. D. Godley. Cambridge, MA: Harvard University Press, 1921.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Persian Wars: Books 5–7</hi>. Trans. A. D. Godley. Cambridge, MA: Harvard University Press, 1922.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Persian Wars: Books 8–9</hi>. Trans. A. D. Godley. Cambridge, MA: Harvard University Press, 1925.</bibl>
+ <bibl>Higgins, Iain Macleod, ed. and trans. <hi rend="italic">The Book of John Mandeville with Related Texts</hi>. Indianapolis, IN: Hackett Publishing, 2011.</bibl>
+ <bibl><hi rend="italic">The Holy Bible: Douay-Rheims Version</hi>. Rockford, IL: Tan Books and Publishers, 1899. Online at <ref target="http://www.drbo.org/" type="external">http://www.drbo.org/</ref>.</bibl>
+ <bibl>Hulme, William Henry, ed. “Gospel of Nicodemus.” In <hi rend="italic">The Middle-English</hi><hi rend="italic"> Harrowing of Hell and Gospel of Nicodemus</hi>. EETS e.s. 100. London: Oxford University Press, 1907. Rpt. 1961. Pp. 22–136.</bibl>
+ <bibl>Jacobus de Voragine. <hi rend="italic">The Golden Legend: Readings on the Saints</hi>. Trans. William Granger Ryan. 2 vols. Princeton, NJ: Princeton University Press, 1993.</bibl>
+ <bibl>Jerome, Saint. <hi rend="italic">Sancti Eusebii Hieronymi Epistulae</hi>. Ed. Isidorus Hilberg. 3 vols. Vienna: F. Tempsky, 1910–18.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">On Illustrious Men</hi>. Trans. Thomas P. Halton. Washington, D. C.: The Catholic University of America Press, 1999.</bibl>
+ <bibl>Josephus. <hi rend="italic">The Jewish War</hi>. Trans. H. St. J. Thackeray. 3 vols. Cambridge, MA: Harvard University Press, 1927–28. Rpt. 1997.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Jewish Antiquities</hi>. Trans. H. St. J. Thackeray, Ralph Marcus, Allen Wikgren, and Louis H. Feldman. 9 vols. Cambridge, MA: Harvard University Press, 1930–65. Rpt. 1998.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Flavius</hi><hi rend="italic"> Josephus: Translation and Commentary. Vol. 9: Life of Josephus</hi>. Ed. and trans. Steve Mason. Leiden: Brill, 2001.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Against Apion</hi>. Trans. John M. G. Barclay. Leiden: Brill, 2007.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Jewish War</hi>. Trans. Martin Hammond and Martin Goodman. Oxford: Oxford University Press, 2017.</bibl>
+ <bibl>Julian of Norwich. <hi rend="italic">The Shewings of Julian of Norwich</hi>. Ed. Georgia Roman Crampton. Kalamazoo, MI: Medieval Institute Publications, 1994.</bibl>
+ <bibl>Kempe, Margery. <hi rend="italic">The Book of Margery Kempe</hi>. Ed. Lynn Staley. Kalamazoo, MI: Medieval Institute Publications, 1996.</bibl>
+ <bibl>Langland, William. <hi rend="italic">Piers Plowman: A Parallel-Text Edition of the A, B, C and Z Versions</hi>. Ed. A. V. C. Schmidt. 2 vols. 2nd Edition. Kalamazoo, MI: Medieval Institute Publications, 2011.</bibl>
+ <bibl>Larkin, Peter, ed. <hi rend="italic">Richard </hi><hi rend="italic">Coer de Lyon</hi>. Kalamazoo, MI: Medieval Institute Publications, 2015.</bibl>
+ <bibl>Laskaya, Anne, and Eve Salisbury, eds. <hi rend="italic">The Middle English Breton Lays</hi>. Kalamazoo, MI: Medieval Institute Publications, 1995.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Sir Gowther</hi>. In <hi rend="italic">The Middle </hi><hi rend="italic">English Breton Lays</hi>. Pp. 263–307.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Sir Orfeo</hi>. In <hi rend="italic">The Middle English Breton Lays</hi>. Pp. 15–59.</bibl>
+ <bibl>Livingston, Michael, ed. <hi rend="italic">Siege of Jerusalem</hi>. Kalamazoo, MI: Medieval Institute Publications, 2004.</bibl>
+ <bibl>Lumiansky, R. M, and David Mills, eds. <hi rend="italic">The Chester Mystery Cycle</hi>. 2 vols. EETS s.s. 3, 9. London: Oxford University Press, 1974.</bibl>
+ <bibl>Malory, Thomas. <hi rend="italic">Works</hi>. Ed. Eugène Vinaver. 2nd edition. Oxford: Clarendon Press, 1971.</bibl>
+ <bibl>Moe, Phyllis, ed. <hi rend="italic">The ME Prose Translation of</hi><hi rend="italic"> Roger d’Argenteuil’s Bible en françois: edited from</hi><hi rend="italic"> Cleveland Public Library, MS W q 091.92 – C 468</hi>. Heidelberg: Carl Winter, 1977.</bibl>
+ <bibl>Morse, Ruth. <hi rend="italic">St. Erkenwald</hi>. Cambridge: D. S. Brewer, 1975.</bibl>
+ <bibl>Munro, Diane A., ed. “An Edition and Study of Portions of MS Laud Misc. 622 of the Bodleian Library.” Ph.D. Dissertation: Aberdeen University, 1977.</bibl>
+ <bibl>Orosius. <hi rend="italic">Seven</hi><hi rend="italic"> Books of History against the Pagans</hi>. Trans. A. T. Fear. Liverpool: Liverpool University Press, 2010.</bibl>
+ <bibl>Plutarchus. <hi rend="italic">Vitae Parallelae</hi>. Ed. Konrat Ziegler and Hans Gärtner. 5th edition. Volume 1, Fascicle 1. Munich and Leipzig: K. G. Saur, 2000.</bibl>
+ <bibl>Polo, Marco. <hi rend="italic">The Description of the World</hi> [<hi rend="italic">Divisement du Monde</hi>]. Ed. and trans. Sharon Kinoshita. Cambridge: Hackett Publishing, 2016.</bibl>
+ <bibl>Pseudo-Hegesippus. <hi rend="italic">Hegesippi Qui Dicitur</hi><hi rend="italic"> Historiae Libri V</hi>. Ed. Vincente Ussani. New York: Hoelder-Pichler-Tempsky A. G., 1932.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">On the Ruin of the </hi><hi rend="italic">City of Jerusalem</hi>. Trans. Wade Blocker. 2005. Online at <ref target="http://www.tertullian.org/fathers/hegesippus_00_eintro.htm" type="external">http://www.tertullian.org/fathers/hegesippus_00_eintro.htm</ref>.</bibl>
+ <bibl>Sallust. <hi rend="italic">Histories</hi>. In <hi rend="italic">Fragments of the Histories; Letters to Caesar</hi>. Ed. and trans. John T. Ramsey. Cambridge, MA: Harvard University Press, 2015. Pp. 2–471.</bibl>
+ <bibl>Stevens, Martin, and A. C. Cawley. <hi rend="italic">The Towneley Plays</hi>. 2 vols. EETS s.s. 13, 14. Oxford: Oxford University Press, 1994.</bibl>
+ <bibl>Suetonius. <hi rend="italic">Lives of the Caesars, Volume 2: Claudius. Nero. Galba. Otho, and Vitellius. Vespasian. Titus, Domitian. Lives of Illustrious Men: Grammarians and Rhetoricians. Poets (Terence. Virgil. Horace. Tibullus. Persius. Lucan). Lives of Pliny the Elder and Passienus Crispus</hi>. Trans. John C. Rolfe. Cambridge, MA: Harvard University Press, 1914.</bibl>
+ <bibl>Sugano, Douglas, ed. <hi rend="italic">The</hi><hi rend="italic"> N-Town Plays</hi>. Kalamazoo, MI: Medieval Institute Publications, 2007.</bibl>
+ <bibl>Tacitus. <hi rend="italic">Histories: Books 4–5. Annals: Books 1–3</hi>. Trans. Clifford H. Moore and John Jackson. Cambridge, MA: Harvard University Press, 1931.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Annals: Books 13–16</hi>. Trans. John Jackson. Cambridge, MA: Harvard University Press, 1937. Rpt. 1981.</bibl>
+ <bibl>Terrell, Katherine H., ed. and trans. <hi rend="italic">Richard Coeur de Lion</hi>. Ontario: Broadview Editions, 2019.</bibl>
+ <bibl>Thucydides. <hi rend="italic">History of the Peloponnesian War, Volume 1: Books 1–2</hi>. Trans. C. F. Smith. Cambridge, MA: Harvard University Press, 1919.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">History of the Peloponnesian War, Volume 2: Books 3–4</hi>. Trans. C. F. Smith. Cambridge, MA: Harvard University Press, 1920.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">History of the Peloponnesian War, Volume 3: Books 5–6</hi>. Trans. C. F. Smith. Cambridge, MA: Harvard University Press, 1921.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">History of the Peloponnesian War, Volume 4: Books 7–8</hi>. Trans. C. F. Smith. Cambridge, MA: Harvard University Press, 1923.</bibl>
+ <bibl>Valerius Maximus. <hi rend="italic">Memorable Doings and Sayings, Volume 1: Books 1–5</hi>. Ed. and trans. D. R. Shackleton Bailey. Cambridge, MA: Harvard University Press, 2000.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Memorable Doings and Sayings, Volume 2: Books 6–9</hi>. Ed. and trans. D. R. Shackleton Bailey. Cambridge, MA: Harvard University Press, 2000.</bibl>
+ <bibl>Wilson, John Holmes, ed. “Titus and Vespasian: A Trial Edition of the Osborne Manuscript.” Ph.D. Dissertation: Yale University, 1967.</bibl></listBibl>
+ <p style="heading">Secondary Sources</p>
+ <listBibl><bibl>Akbari, Suzanne Conklin. <hi rend="italic">Idols in the East: European Representations of Islam and the </hi><hi rend="italic">Orient, 1100–1450</hi>. Ithaca, NY: Cornell University Press, 2009.</bibl>
+ <bibl>Anatolios, Khaled. “Athanasius’s Christology Today: The Life, Death, and Resurrection of Christ in <hi rend="italic">On the Incarnation</hi>.” In <hi rend="italic">In the Shadow of the Incarnation: Essays on Jesus Christ in the Early Church in Honor of Brian E. Daley, S. J</hi>. Ed. Peter W. Martens. Notre Dame, IN: University of Notre Dame Press, 2008. Pp. 29–49.</bibl>
+ <bibl>Appelbaum, Robert. <hi rend="italic">Aguecheek’s Beef, Belch’s Hiccup, and Other Gastronomic Interjections: Literature, Culture, and Food Among the Early Moderns</hi>. Chicago: University of Chicago Press, 2006.</bibl>
+ <bibl>Ash, Rhiannon. “The Great Escape: Tacitus on the Mutiny of the Usipi (<hi rend="italic">Agricola</hi> 28).” In <hi rend="italic">Ancient Historiography and its Contexts: Studies in </hi><hi rend="italic">Honour of A. J. Woodman</hi>. Ed. Christina S. Kraus, John Marincola, and Christopher Pelling. Oxford: Oxford University Press, 2010. Pp. 275–93.</bibl>
+ <bibl>Avi-Yonah, Michael. “Ophrah.” In <hi rend="italic">Encyclopeaedia Judaica</hi>. Ed. Fred Skolnik and Michael Berenbaum. 2nd ed. Vol. 15. Detroit, MI: MacMillan Reference USA in association with Keter Publishing House, 2007. p. 439.</bibl>
+ <bibl>Bale, Anthony. <hi rend="italic">The Jew in the Medieval Book: </hi><hi rend="italic">English Antisemitisms, 1350–1500</hi>. Cambridge: Cambridge University Press, 2006.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Feeling Persecuted: </hi><hi rend="italic">Christians, Jews and Images of Violence in the Middle Ages</hi>. London: Reaktion Books, 2010.</bibl>
+ <bibl>Barlow, Jonathan. “Noble Gauls and Their Other in Caesar’s Propaganda.” In <hi rend="italic">Julius Caesar as Artful </hi><hi rend="italic">Reporter: The War Commentaries as Political Instruments</hi>. Ed. Kathryn Welch and Anton Powell. London: Duckworth Press, 1998. Pp. 139–70.</bibl>
+ <bibl>Barnes, T. D. “The Sack of the Temple in Josephus and Tacitus.” In Edmondson, Mason, and Rives, <hi rend="italic">Flavius Josephus and Flavian </hi><hi rend="italic">Rome</hi>. Pp. 129–44.</bibl>
+ <bibl>Baum, Paull Franklin. “The Mediæval Legend of Judas Iscariot.” <hi rend="italic">PMLA</hi> 31 (1916), 481–632.</bibl>
+ <bibl>Beard, Mary. <hi rend="italic">The </hi><hi rend="italic">Roman Triumph</hi>. Cambridge, MA: The Belknap Press of Harvard University Press, 2007.</bibl>
+ <bibl>Bhabha, Homi K. <hi rend="italic">The Location of Culture</hi>. London: Routledge Classics, 1994.</bibl>
+ <bibl>Biddick, Kathleen. <hi rend="italic">The Typological Imaginary: Circumcision, Technology, </hi><hi rend="italic">History</hi>. Philadelphia: University of Pennsylvania Press, 2003.</bibl>
+ <bibl>Birenbaum, Maija. “Affective Vengeance in <hi rend="italic">Titus and Vespasian</hi>.” <hi rend="italic">Chaucer Review</hi> 43.3 (2009), 330–44.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Communal Purity and Jewish “Filþe” in <hi rend="italic">Cleanness</hi>.” <hi rend="italic">Philological Quarterly</hi> 91.3 (2012), 339–59.</bibl>
+ <bibl>Blurton, Heather. “‘His right hond he liet of-smite’: Judas/Quiriac and the Representation of Jewish Identity in the <hi rend="italic">South English Legendaries</hi>.” In <hi rend="italic">Rethinking the South English Legendaries</hi>. Ed. Heather Blurton and Jocelyn Wogan-Browne. Manchester: Manchester University Press, 2011. Pp. 313–28.</bibl>
+ <bibl>Boas, Adrian J. <hi rend="italic">Crusader Archaeology: The </hi><hi rend="italic">Material Culture of the Latin East</hi>. 2nd edition. London: Routledge, 2017.</bibl>
+ <bibl>Boyarin, Daniel. <hi rend="italic">A Radical Jew: Paul and the Politics </hi><hi rend="italic">of Identity</hi>. Berkeley: University of California Press, 1994.</bibl>
+ <bibl>Boyle, A. J., and W. J. Dominik, eds. <hi rend="italic">Flavian Rome: Culture, Image, </hi><hi rend="italic">Text</hi>. Leiden: Brill, 2003.</bibl>
+ <bibl>Brooks, James A. “Galatia, Galatians.” In<hi rend="italic"> Encyclopedia of Early Christianity</hi>. Ed. Everett Ferguson. 2 vols. 2nd edition. New York: Garland Publishing, 1997. Pp. 446–47.</bibl>
+ <bibl>Brown, Carleton, and Rossell Hope Robbins. <hi rend="italic">The Index of Middle English Verse</hi>. New York: Columbia University Press, 1943.</bibl>
+ <bibl>Bynum, Caroline Walker. <hi rend="italic">Christian Materiality: An Essay on Religion in Late Medieval Europe</hi>. New York: Zone Books, 2011.</bibl>
+ <bibl>Calkin, Siobhain Bly. “Romance Baptisms and Theological Contexts in <hi rend="italic">The King of Tars</hi> and <hi rend="italic">Sir Ferumbras</hi>.” In <hi rend="italic">Medieval Romance, Medieval Contexts</hi>. Ed. Rhiannon Purdie and Michael Cichon. Cambridge: D. S. Brewer, 2011. Pp. 105–19.</bibl>
+ <bibl>Chaganti, Seeta. <hi rend="italic">The Medieval Poetics of the Reliquary</hi><hi rend="italic">: Enshrinement, Inscription, Performance</hi>. New York: Palgrave Macmillan, 2008.</bibl>
+ <bibl>Chapman, Honora Howell. “Josephus and the Cannibalism of Mary (<hi rend="italic">BJ</hi> 6.199–219).” In <hi rend="italic">A Companion to Greek and Roman Historiography</hi>. Vol. 2. Ed. John Marincola. Malden, MA: Wiley-Blackwell, 2007. Pp. 419–26.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Josephus.” In <hi rend="italic">The Cambridge Companion to the Roman Historians</hi>. Ed. Andrew Feldherr. Cambridge: Cambridge University Press, 2009. Pp. 319–31.</bibl>
+ <bibl>Chapman, Honora Howell, and Zuleika Rodgers, eds. <hi rend="italic">A Companion to Josephus</hi>. Malden, MA: Wiley-Blackwell, 2016.</bibl>
+ <bibl>Chemers, Michael Mark. “Anti-Semitism, Surrogacy, and the Invocation of Mohammed in the <hi rend="italic">Play of </hi><hi rend="italic">the Sacrament</hi>.” <hi rend="italic">Comparative Drama</hi> 41 (2007), 25–55.</bibl>
+ <bibl>Clark, Eleanor Grace. “Titus and Vespasian.” <hi rend="italic">Modern Language Notes</hi> 41.8 (1926), 523–27.</bibl>
+ <bibl>Clifton, Nicole. “<hi rend="italic">Kyng Alisaunder</hi> and Oxford, Bodleian Library, MS Laud Misc. 622.” <hi rend="italic">Journal of the Early Book Society for the Study </hi><hi rend="italic">of Manuscripts and Printing History</hi> 18 (2015), 29–49.</bibl>
+ <bibl>Cohen, Jeffrey Jerome, ed. <hi rend="italic">The Postcolonial Middle Ages</hi>. New York: Palgrave, 2001.</bibl>
+ <bibl>Cohen, Jeremy. <hi rend="italic">Living Letters of the Law: Ideas of the </hi><hi rend="italic">Jew in Medieval Christianity</hi>. Berkeley: University of California Press, 1999.</bibl>
+ <bibl>Collins, John J. <hi rend="italic">Seers, Sibyls, and Sages in Hellenistic-Roman </hi><hi rend="italic">Judaism</hi>. Leiden: Brill Academic Publishers, 2001.</bibl>
+ <bibl>Constable, Giles. <hi rend="italic">Crusaders and Crusading in the Twelfth Century</hi>. Burlington, VT: Ashgate, 2008.</bibl>
+ <bibl>Cooper, Helen. <hi rend="italic">The English Romance in Time: Transforming Motifs from Geoffrey of Monmouth to the Death of Shakespeare</hi>. Oxford: Oxford University Press, 2004.</bibl>
+ <bibl>Cotton, Hannah M., and Werner Eck. “Josephus’ Roman Audience: Josephus and the Roman Elites” In Edmondson, Mason, and Rives, <hi rend="italic">Flavius Josephus and Flavian Rome</hi>. Pp. 37–52.</bibl>
+ <bibl>Cutts, Cecilia. “The Croxton Play: An Anti-Lollard Piece.” <hi rend="italic">MLQ</hi> 5 (1944), 45–60.</bibl>
+ <bibl>Czarnowus, Anna. “Judas, A Medieval Other? Religion, Ethnicity, and Gender in the Thirteenth-Century Middle English <hi rend="italic">Judas</hi>.” <hi rend="italic">Terminus</hi> 13 (2011), 15–30.</bibl>
+ <bibl>D’Emilio, James. “Galicia.” In <hi rend="italic">Oxford Dictionary of the Middle Ages</hi>. Pp. 682–83.</bibl>
+ <bibl>Delany, Sheila, ed. <hi rend="italic">Chaucer </hi><hi rend="italic">and the Jews: Sources, Contexts, Meanings</hi>. New York: Routledge, 2002.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Chaucer’s Prioress, the Jews, and the Muslims.” In Delany, <hi rend="italic">Chaucer and the Jews</hi>. Pp. 43–57.</bibl>
+ <bibl>DeMarco, Patricia A. “Cultural Trauma and Christian Identity in the Late Medieval Heroic Epic, <hi rend="italic">The Siege of Jerusalem</hi>.” <hi rend="italic">Literature and Medicine</hi> 33 (2015), 279–301.</bibl>
+ <bibl>DeVries, Kelly, and Robert Douglas Smith. <hi rend="italic">Medieval Military Technology</hi>. 2nd edition. Toronto: University of Toronto Press, 2012.</bibl>
+ <bibl>Dinshaw, Carolyn. “A Kiss is Just a Kiss: Heterosexuality and Its Consolations in Sir Gawain and the Green Knight.” <hi rend="italic">Diacritics</hi> 24, no. 2/3 (1994), 205–26.</bibl>
+ <bibl>Dixon, Gary. “The Crowd at the Feet of Pope Boniface VIII: Pilgrimage, Crusade and the First Roman Jubilee (1300).” <hi rend="italic">Journal of Medieval History</hi> 25 (1999), 279–307.</bibl>
+ <bibl>Dönitz, Saskia. “Sefer Yosippon (Josippon).” In Chapman and Rodgers, <hi rend="italic">A Companion to Josephus</hi>. Pp. 382–89.</bibl>
+ <bibl>Duffy, Eamon. <hi rend="italic">The Stripping of the Altars: Traditional Religion in England c.1400–c.1580</hi>. 2nd Edition. New Haven: Yale University Press, 2005.</bibl>
+ <bibl>Edmondson, Jonathan, Steve Mason, and James Rives, eds. <hi rend="italic">Flavius </hi><hi rend="italic">Josephus and Flavian Rome</hi>. Oxford: Oxford University Press, 2005.</bibl>
+ <bibl>Ehrman, Bart D. <hi rend="italic">Forged: Writing in the Name of God — Why the Bible’s Authors are not who we think they are</hi>. New York: Harper Collins Publishers, 2011.</bibl>
+ <bibl>Eisenman, Robert. <hi rend="italic">James the Brother of Jesus: The Key to Unlocking </hi><hi rend="italic">the Secrets of Early Christianity and the Dead Sea Scrolls</hi>. New York: Viking, 1997.</bibl>
+ <bibl>Endelman, Todd M. <hi rend="italic">The Jews of Britain, 1656–2000</hi>. Berkeley: University of California Press, 2002.</bibl>
+ <bibl>Farmer, David Hugh. <hi rend="italic">The Oxford Dictionary of Saints</hi>. 4th edition. Oxford: Oxford University Press, 1997.</bibl>
+ <bibl>Feeney, Denis. <hi rend="italic">Beyond Greek: The </hi><hi rend="italic">Beginnings of Latin Literature</hi>. Cambridge, MA: Harvard University Press, 2016.</bibl>
+ <bibl>Frassetto, Michael, ed. <hi rend="italic">Christian Attitudes Toward the Jews in the </hi><hi rend="italic">Middle Ages: A Casebook</hi>. New York: Routledge, 2007.</bibl>
+ <bibl>Gardiner, Eileen. “Hell, Purgatory, and Heaven.” In <hi rend="italic">Handbook of Medieval Culture: Fundamental Aspects and Conditions of the European Middle Ages</hi>. Vol. 1. Ed. Albrecht Classen. Berlin: De Gruyter, 2015. Pp. 653–73.</bibl>
+ <bibl>Gasse, Rosanne. “The Dry Tree Legend in Medieval Literature.” <hi rend="italic">Fifteenth-Century Studies</hi> 38 (2013), 65–96.</bibl>
+ <bibl>Gatewood, Brian. “The Narrative Characterization of Pontius Pilate in Early Gospel Literature.” Ph.D. Dissertation: University of Denver, 2005.</bibl>
+ <bibl>Gibson, Gail McMurray, and Theresa Coletti. “Lynn, Walsingham, Norwich.” In Wallace, <hi rend="italic">Europe: A Literary History</hi>. 1:298–321.</bibl>
+ <bibl>Goldhill, Simon. <hi rend="italic">The Temple of Jerusalem</hi>. Cambridge, MA: Harvard University Press, 2005.</bibl>
+ <bibl>Goodman, Martin. <hi rend="italic">The Ruling Class of</hi><hi rend="italic"> Judaea: The Origins of the Jewish Revolt Against Rome A</hi><hi rend="italic">.D. 66–70</hi>. Cambridge: Cambridge University Press, 1987.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Rome and Jerusalem</hi><hi rend="italic">: The Clash of Ancient Civilizations</hi>. New York: Alfred A. Knopf, 2007.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Josephus’s Jewish War: A Biography</hi>. Princeton: Princeton University Press, 2019.</bibl>
+ <bibl>Groves, Beatrice. <hi rend="italic">The Destruction of Jerusalem in Early Modern</hi><hi rend="italic"> English Literature</hi>. Cambridge: Cambridge University Press, 2015.</bibl>
+ <bibl>Gruen, Erich S. <hi rend="italic">Diaspora: Jews Amidst Greeks and Romans</hi>. Cambridge, MA: Harvard University Press, 2002.</bibl>
+ <bibl>Guddat-Figge, Gisela. <hi rend="italic">Catalogue of Manuscripts Containing </hi><hi rend="italic">Middle English Romances</hi>. München: Wilhelm Fink, 1976.</bibl>
+ <bibl>Hamel, Mary. “<hi rend="italic">The Siege of Jerusalem</hi> as a Crusading Poem.” In <hi rend="italic">Journeys </hi><hi rend="italic">Toward God: Pilgrimage and Crusade</hi>. Ed. Barbara N. Sargent-Baur. Kalamazoo, MI: Medieval Institute Publications, 1992. Pp. 177–94.</bibl>
+ <bibl>Hebron, Malcolm. <hi rend="italic">The Medieval Siege: Theme and Image in Middle English Romance</hi>. Oxford: Clarendon Press, 1997.</bibl>
+ <bibl>Heng, Geraldine. “The Romance of England: <hi rend="italic">Richard Coer de Lyon</hi>, Saracens, Jews, and the Politics of Race and Nation.” In Cohen, <hi rend="italic">Postcolonial Middle Ages</hi>. Pp. 135–71.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Empire of Magic: Medieval Romance and the Politics of Cultural </hi><hi rend="italic">Fantasy</hi>. New York: Columbia University Press, 2003.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Invention of </hi><hi rend="italic">Race in the European Middle Ages</hi>. Cambridge: Cambridge University Press, 2018.</bibl>
+ <bibl>Hudson, Anne. <hi rend="italic">Lollards and Their Books</hi>. London: Hambledon Press, 1985.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Premature Reformation: Wycliffite Texts and </hi><hi rend="italic">Lollard History</hi>. Oxford: Clarendon Press, 1988. Rpt. 2002.</bibl>
+ <bibl>Hsy, Jonathan H. “Bordeaux.” In <hi rend="italic">Oxford Dictionary of the Middle Ages</hi>. P. 279.</bibl>
+ <bibl>Izydorczyk, Zbigniew, ed. <hi rend="italic">The Medieval Gospel of Nicodemus: Texts, </hi><hi rend="italic">Intertexts, and Contexts in Western Europe</hi>. Tempe, AZ: Medieval and Renaissance Texts and Studies, 1997.</bibl>
+ <bibl>Johnson, Eric F. “Vienne.” In <hi rend="italic">Oxford Dictionary of the Middle Ages</hi>. P. 1697.</bibl>
+ <bibl>Johnston, Andrew C. “<hi rend="italic">Nostri</hi> and ‘The Other(s).’” In <hi rend="italic">The Cambridge Companion to the Writings </hi><hi rend="italic">of Julius Caesar</hi>. Ed. Luca Grillo and Christopher B. Krebs. Cambridge: Cambridge University Press, 2017. Pp. 81–94.</bibl>
+ <bibl>Jones, Brian W. <hi rend="italic">The Emperor Titus</hi>. New York: St. Martin’s Press, 1984.</bibl>
+ <bibl>Jones, Kenneth R. <hi rend="italic">Jewish Reactions to the Destruction of Jerusalem </hi><hi rend="italic">in A.D. 70: Apocalypses and Related Pseudepigrapha</hi>. Leiden: Brill, 2011.</bibl>
+ <bibl>Judd, Jr., Frank F. “Pontius Pilate in Early Christian Literature.” Ph.D. Dissertation: University of North Carolina at Chapel Hill, 2003.</bibl>
+ <bibl>Kaplan, M. Lindsay. “The Jewish Body in Black and White in Medieval and Early Modern England.” <hi rend="italic">Philological Quarterly</hi> 92 (2013), 41–65.</bibl>
+ <bibl>Kissane, Alan. <hi rend="italic">Civic Community in Late Medieval </hi><hi rend="italic">Lincoln: Urban Society and Economy in the Age of the </hi><hi rend="italic">Black Death, 1289–1409</hi>. Woodbridge: The Boydell Press, 2017.</bibl>
+ <bibl>Kleiman, Irit. “The Life and Times of Judas Iscariot: Form and Function.” In <hi rend="italic">Beyond the Literary Ambit</hi>. Ed. Paul Maurice Clogan. Lanham, MD: Rowman and Littlefield Publishers, 2007. Pp. 15–40.</bibl>
+ <bibl>Kletter, Karen M. “The Christian Reception of Josephus in Late Antiquity and the Middle Ages.” In Chapman and Rodgers, <hi rend="italic">A Companion to </hi><hi rend="italic">Josephus</hi>. Pp. 368–81.</bibl>
+ <bibl>Kruger, Steven F. “The Bodies of Jews in the Late Middle Ages.” In <hi rend="italic">The Idea of Medieval Literature: New Essays on Chaucer and Medieval Culture in Honor of Donald R. Howard</hi>. Ed. James M. Dean and Christian K. Zacher. Newark: University of Delaware Press, 1992. Pp. 301–23.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Spectral Jew: Conversion </hi><hi rend="italic">and Embodiment in Medieval Europe</hi>. Minneapolis: University of Minnesota Press, 2006.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Times of Conversion.” <hi rend="italic">Philological Quarterly</hi> 92 (2013), 19–39.</bibl>
+ <bibl>Krummel, Miriamne Ara. <hi rend="italic">Crafting Jewishness in Medieval England: Legally Absent, </hi><hi rend="italic">Virtually Present</hi>. New York: Palgrave Macmillan, 2011.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Staging Encounters: The Touch of the Medieval Other.” <hi rend="italic">postmedieval</hi> 7 (2016), 147–60.</bibl>
+ <bibl>Krummel, Miriamne Ara, and Tison Pugh, eds. <hi rend="italic">Jews in Medieval England: </hi><hi rend="italic">Teaching Representations of the Other</hi>. Cham: Palgrave Macmillan, 2017.</bibl>
+ <bibl>Lapina, Elizabeth, and Nicholas Morton, eds. <hi rend="italic">The Uses of the Bible </hi><hi rend="italic">in Crusader Sources</hi>. Leiden: Brill, 2017.</bibl>
+ <bibl>Lavezzo, Kathy. “Introduction: Jews in Britain — Medieval to Modern.” <hi rend="italic">Philological Quarterly</hi> 92 (2013), 1–18.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Accommodated Jew: English Antisemitism from Bede to Milton</hi>. Ithaca, NY: Cornell University Press, 2016.</bibl>
+ <bibl>Leoni, Tommaso. “The Text of the Josephan Corpus: Principal Greek Manuscripts, Ancient Latin Translations, and the Indirect Tradition.” In Chapman and Rodgers, <hi rend="italic">A Companion to </hi><hi rend="italic">Josephus</hi>. Pp. 307–21.</bibl>
+ <bibl>Levenson, David B., and Thomas R. Martin. “The Ancient Latin Translations of Josephus.” In Chapman and Rodgers, <hi rend="italic">A Companion to Josephus</hi>. Pp. 322–44.</bibl>
+ <bibl>Levick, Barbara. <hi rend="italic">Vespasian</hi>. 2nd edition. London: Routledge, 2017.</bibl>
+ <bibl>Leydon, Christopher. “The Insular Iscariot: Judas in Medieval British and Irish Literary Traditions.” Ph.D. Dissertation: City University of New York, 2010.</bibl>
+ <bibl>Liszka, Thomas R. “The Dragon in the ‘South English Legendary’: Judas, Pilate, and the ‘A(1)’ Redaction.” <hi rend="italic">Modern Philology</hi> 100 (2002), 50–59.</bibl>
+ <bibl>Lyons, William John. <hi rend="italic">Joseph of Arimathea: A Study in Reception History</hi>. Oxford: Oxford University Press, 2014.</bibl>
+ <bibl>MacCulloch, Diarmaid. <hi rend="italic">Christianity: the First Three Thousand Years</hi>. New York: Penguin Books, 2011.</bibl>
+ <bibl>Mackley, J. S. “Kissing Heaven’s Door: the Medieval Legend of Judas Iscariot.” Paper presented to: York Medieval Religion Research Group Meeting, King’s Manor, University of York, February 2007. Online at <ref target="http://nectar.northampton.ac.uk/5008/" type="external">http://nectar.northampton.ac.uk/5008/</ref>.</bibl>
+ <bibl>Mader, Gottfried. <hi rend="italic">Josephus and </hi><hi rend="italic">the Politics of Historiography: Apologetic and Impression Management in the </hi><hi rend="italic">Bellum Judaicum</hi>. Leiden: Brill, 2000.</bibl>
+ <bibl>Malo, Robyn. <hi rend="italic">Relics and Writing </hi><hi rend="italic">in Late Medieval England</hi>. Toronto: University of Toronto Press, 2013.</bibl>
+ <bibl>Mannetter, Drew A. “Narratology in Caesar.” Ph.D. Dissertation: University of Wisconsin-Madison, 1995.</bibl>
+ <bibl>Mason, Steve, ed. <hi rend="italic">Understanding Josephus: Seven </hi><hi rend="italic">Perspectives</hi>. Sheffield: Sheffield Academic Press, 1998.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">A History of the </hi><hi rend="italic">Jewish War A.D. 66–74</hi>. Cambridge: Cambridge University Press, 2016.</bibl>
+ <bibl>McCoskey, Denise Eileen. “Diaspora in the Reading of Jewish History, Identity, and Difference.” <hi rend="italic">Diaspora</hi> 3 (2003), 387–418.</bibl>
+ <bibl>McLaren, James S. <hi rend="italic">Turbulent Times? Josephus and Scholarship on Judaea in the </hi><hi rend="italic">First Century CE</hi>. Sheffield: Sheffield Academic Press, 1998.</bibl>
+ <bibl>Mellinkoff, Ruth. <hi rend="italic">Outcasts: Signs of Otherness in Northern European Art</hi><hi rend="italic"> of the Late Middle Ages</hi>. 2 vols. Berkeley: University of California Press, 1993.</bibl>
+ <bibl><hi rend="italic">Middle English Dictionary</hi>. Ann Arbor: University of Michigan Press, 2001–. Online at <ref target="http://quod.lib.umich.edu/m/med/" type="external">http://quod.lib.umich.edu/m/med/</ref>.</bibl>
+ <bibl>Millar, Bonnie. “The Role of Prophecy in the <hi rend="italic">Siege of Jerusalem</hi> and its Analogues.” <hi rend="italic">The Yearbook of Langland</hi><hi rend="italic"> Studies</hi> 13 (1999), 153–78.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Siege of Jerusalem in its</hi><hi rend="italic"> Physical, Literary, and Historical Contexts</hi>. Dublin: Four Courts Press, 2000.</bibl>
+ <bibl>Min, Mariah Junglan. “Damned If You Do: Judas Iscariot and the Invention of Medieval Literary Character.” Ph.D. Dissertation: University of Pennsylvania, 2019.</bibl>
+ <bibl>Mize, Britt. “Working with the Enemy: The Harmonizing Tradition and the New Utility of Judas Iscariot in Thirteenth-Century England.” <hi rend="italic">Journal of Medieval Religious Cultures</hi> 36 (2010), 68–110.</bibl>
+ <bibl>Moe, Phyllis Gainfort. “Titus and Vespasian: A Study of Two Manuscripts.” Ph.D. Dissertation: New York University, 1963.</bibl>
+ <bibl>Montero, J. A. Cabrera. “Donation of Constantine.” In <hi rend="italic">Encyclopedia of Ancient Christianity</hi>. Ed. Angelo Di Berardino. Downers Grove, IL: InterVarsity Press, 2014. Pp. 734–35.</bibl>
+ <bibl>Moore, R. I. <hi rend="italic">The</hi><hi rend="italic"> Formation of a Persecuting Society: Power and Deviance in Western</hi><hi rend="italic"> Europe, 950–1250</hi>. Cambridge, MA: Blackwell Publishing, 1990.</bibl>
+ <bibl>Morey, James H. <hi rend="italic">Book and Verse: A Guide to Middle English Biblical Literature</hi>. Urbana: University of Illinois Press, 2000.</bibl>
+ <bibl>Mueller, Alex. “Corporal Terror: Critiques of Imperialism in <hi rend="italic">The Siege of Jerusalem</hi>.” <hi rend="italic">Philological Quarterly</hi> 84 (2005), 287–310.</bibl>
+ <bibl>Murphy-O’Connor, Jerome. <hi rend="italic">The Holy Land: An Oxford Archaeological Guide From Earliest Times to 1700</hi>. 5th ed. Oxford: Oxford University Press, 2008.</bibl>
+ <bibl>Murray, Alexander. <hi rend="italic">Suicide in the Middle Ages, vol. 2: The Curse on Self-Murder.</hi> Oxford: Oxford University Press, 2000.</bibl>
+ <bibl>Musholt, S. “Mount of Olives.” In <hi rend="italic">New Catholic</hi><hi rend="italic"> Encyclopedia</hi>. 2nd edition. Vol. 10. Detroit, MI: Gale Group in association with the Catholic University of America, 2003. Pp. 33–34.</bibl>
+ <bibl>Narin van Court, Elisa. “‘The Siege of Jerusalem’ and Augustinian Historians: Writing about Jews in Fourteenth-Century England.” <hi rend="italic">The</hi><hi rend="italic"> Chaucer Review</hi> 29 (1995), 227–48.</bibl>
+ <bibl><hi rend="italic">A New Index of Middle English Verse</hi>. Ed. Julia Boffey and A. S. G. Edwards. London: The British Library, 2005.</bibl>
+ <bibl>Nichols, Stephen G. “Paris.” In Wallace, <hi rend="italic">Europe: A Literary History</hi>. 1:11–42.</bibl>
+ <bibl>Nicholson, Roger. “Haunted Itineraries: Reading the Siege of Jerusalem.” <hi rend="italic">Exemplaria</hi> 14 (2002), 447–84.</bibl>
+ <bibl>Nievergelt, Marco. “The <hi rend="italic">Sege of Melayne</hi> and the <hi rend="italic">Siege of Jerusalem</hi>: National Identity, Beleaguered Christendom, and Holy War during the Great Papal Schism.” <hi rend="italic">The Chaucer Review</hi> 49 (2015), 402–26.</bibl>
+ <bibl>Nisse, Ruth. <hi rend="italic">Jacob</hi><hi rend="italic">’s Shipwreck: Diaspora, Translation, and Jewish-Christian Relations in Medieval</hi><hi rend="italic"> England</hi>. Ithaca, NY: Cornell University Press, 2017.</bibl>
+ <bibl>Norris, John. <hi rend="italic">Medieval</hi><hi rend="italic"> Siege Warfare</hi>. Stroud: Tempus, 2007.</bibl>
+ <bibl><hi rend="italic">Oxford Dictionary of the Middle</hi><hi rend="italic"> Ages</hi>. Ed. Robert E. Bjork. 4 vols. Oxford: Oxford University Press, 2010.</bibl>
+ <bibl>Pappano, Margaret Aziza. “Judas in York: Masters and Servants in the Late Medieval Cycle Drama.” <hi rend="italic">Exemplaria</hi> 14 (2002), 317–50.</bibl>
+ <bibl>Parke, H. W. <hi rend="italic">Sibyls and Sibylline Prophecy in Classical</hi><hi rend="italic"> Antiquity</hi>. Ed. B. C. McGing. London: Routledge, 1988.</bibl>
+ <bibl>Paul, Nicholas, and Suzanne Yeager, eds. <hi rend="italic">Remembering the Crusades: Myth, Image, and</hi><hi rend="italic"> Identity</hi>. Baltimore, MD: The Johns Hopkins University Press, 2012.</bibl>
+ <bibl>Peck, Russell A. “Number as Cosmic Language.” In <hi rend="italic">Essays in the Numerical Criticism of Medieval Literature</hi>. Ed. Caroline D. Eckhardt. London: Bucknell University Press, 1980. Pp. 15–64.</bibl>
+ <bibl>Penn, Simon A. C., and Christopher Dyer. “Wages and Earnings in Late Medieval England: Evidence from the Enforcement of the Labour Laws.” <hi rend="italic">Economic History Review</hi> 43.3 (1990), 356–76.</bibl>
+ <bibl>Price, Merrall Llewelyn. “Imperial Violence and the Monstrous Mother: Cannibalism at the Siege of Jerusalem.” In <hi rend="italic">Domestic Violence in Medieval Texts</hi>. Ed. Eve Salisbury, Georgiana Donavin, and Merral Llewelyn Price. Gainesville: University Press of Florida, 2002. Pp. 272–98.</bibl>
+ <bibl>Rajabzadeh, Shokoofeh. “The Depoliticized Saracen and Muslim Erasure.” <hi rend="italic">Literature Compass</hi> 16 (2019), 1–8.</bibl>
+ <bibl>Rajak, Tessa. <hi rend="italic">Josephus</hi><hi rend="italic">: The Historian and His Society</hi>. 2nd edition. London: Duckworth, 2002.</bibl>
+ <bibl>Rouse, Robert Allen. “Emplaced Reading, or Towards a Spatial Hermeneutic for Medieval Romance.” In <hi rend="italic">Medieval Romance and Material Culture</hi>. Ed. Nicholas Perkins. Cambridge: D. S. Brewer, 2015. Pp. 41–57.</bibl>
+ <bibl>Rubenstein, Jay. “Cannibals and Crusaders.” <hi rend="italic">French Historical Studies</hi> 31.4 (2008), 525–52.</bibl>
+ <bibl>Rubin, Miri. <hi rend="italic">Corpus Christi: The Eucharist in Late Medieval Culture</hi>. Oxford: Cambridge University Press, 1991.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Gentile Tales: The Narrative Assault on Late</hi><hi rend="italic"> Medieval Jews</hi>. Philadelphia: University of Pennsylvania Press, 2004.</bibl>
+ <bibl>Rudnytzky, Kateryna A. “‘Behold the Man’: Portraits of Pontius Pilate in Medieval English Literature.” Ph.D. Dissertation: University of North Carolina at Chapel Hill, 1997.</bibl>
+ <bibl>Schadee, Hester. “Caesar the Ethnographer.” In <hi rend="italic">The Landmark Julius Caesar: Web Essays for the Complete Works</hi>. Ed. and trans. Kurt A. Raaflaub. New York: Pantheon Books, 2018. Pp. 223–28. Online at <ref target="http://www.thelandmarkcaesar.com/" type="external">http://www.thelandmarkcaesar.com/</ref>.</bibl>
+ <bibl>Schreckenberg, Heinz. <hi rend="italic">Rezeptionsgeschichtliche und textkritische Untersuchungen zu Flavius Josephus</hi>. Leiden: Brill, 1977.</bibl>
+ <bibl>Spencer, H. Leith. <hi rend="italic">English Preaching in the Late Middle Ages</hi>. Oxford: Clarendon Press, 1993.</bibl>
+ <bibl>Stinson, Timothy L. “Makeres of the Mind: Authorial Intention, Editorial Practice, and <hi rend="italic">The Siege of Jerusalem</hi>.” <hi rend="italic">The Yearbook of Langland Studies</hi> 24 (2010), 39–62.</bibl>
+ <bibl>Stone, Charles Russell. “‘Many Man He Shal Do Woo’: Portents and the End of an Empire in ‘Kyng Alisaunder.’” <hi rend="italic">Medium Ævum</hi> 81 (2012), 18–40.</bibl>
+ <bibl>Tattersall, Jill. “Anthropophagi and Eaters of Raw Flesh in French Literature of the Crusade Period: Myth, Tradition, and Reality.” <hi rend="italic">Medium Ævum</hi> 57.2 (1998), 240–53.</bibl>
+ <bibl>Throop, Susanna A. <hi rend="italic">Crusading as an Act of Vengeance, 1095–1216</hi>. Surrey: Ashgate, 2011.</bibl>
+ <bibl>Timmermann, Achim. <hi rend="italic">Memory and Redemption: Public Monuments and the</hi><hi rend="italic"> Making of Late Medieval Landscape</hi>. Turnhout: Brepols, 2017.</bibl>
+ <bibl>Tolan, John V. <hi rend="italic">Saracens: Islam in the Medieval European Imagination</hi>. New York: Columbia University, 2002. </bibl>
+ <bibl>Tomasch, Sylvia. “Postcolonial Chaucer and the Virtual Jew.” In Cohen, <hi rend="italic">Postcolonial Middle</hi><hi rend="italic"> Ages</hi>. Pp. 243–60.</bibl>
+ <bibl>van Anrooij, Wim. “Nine Worthies.” In <hi rend="italic">The Encyclopedia of the Medieval Chronicle</hi>. Ed. R. Graeme Dunphy. 2 vols. Leiden: Brill, 2010. 2:1150–52.</bibl>
+ <bibl>Wallace, David, ed. <hi rend="italic">Europe: A Literary History, 1348–1418</hi>. Volume 1. Oxford: Oxford University Press, 2016.</bibl>
+ <bibl>Weed, Jennifer Hart. “Aquinas on the Forced Conversion of Jews: Belief, Will, and Toleration.” In <hi rend="italic">Jews in</hi><hi rend="italic"> Medieval Christendom: ‘Slay Them Not.’</hi> Ed. Kristine T. Utterback and Merral Llewelyn Price. Leiden: Brill, 2013. Pp. 129–46.</bibl>
+ <bibl>Weitbrecht, Julia. “The Vera Icon (Veronica) in the Verse Legend <hi rend="italic">Veronica II</hi>: Medializing Salvation in the Late Middle Ages.” <hi rend="italic">Seminar: A Journal</hi><hi rend="italic"> of German Studies</hi> 52 (2016), 173–92.</bibl>
+ <bibl>Westrem, Scott D. “Against Gog and Magog.” In <hi rend="italic">Text and Territory: Geographical Imagination in the European Middle Ages</hi>. Ed. Sylvia Tomasch and Sealy Gilles. Philadelphia: University of Pennsylvania Press, 1998. Pp. 54–75.</bibl>
+ <bibl>Whealey, Alice. “The <hi rend="italic">Testimonium</hi><hi rend="italic"> Flavianum</hi>.” In Chapman and Rodgers, <hi rend="italic">A Companion to Josephus</hi>. Pp. 345–55.</bibl>
+ <bibl>Wheatley, Edward. “‘Blind’ Jews and Blind Christians: Metaphorics of Marginalization in Medieval Europe.” <hi rend="italic">Exemplaria</hi> 14 (2002): 351–82.</bibl>
+ <bibl>Whitaker, Cord J. “Ambivalent Violence: Josephus, Rationalist Evangelism, and Defining the Human in the <hi rend="italic">Siege of Jerusalem</hi>.” <hi rend="italic">The Yearbook of Langland Studies</hi> 28 (2014), 137–72.</bibl>
+ <bibl>Whiting, Bartlet Jere, and Helen Wescott Whiting. <hi rend="italic">Proverbs, Sentences, and Proverbial Phrases from English Writings Mainly before</hi><hi rend="italic"> 1500</hi>. Cambridge, MA: Belknap Press of Harvard University Press, 1968.</bibl>
+ <bibl>Williams, Arnold. <hi rend="italic">The Characterization of Pilate in the Towneley Plays</hi>. East Lansing: Michigan State College Press, 1950.</bibl>
+ <bibl>Wittig, Susan. <hi rend="italic">Stylistic and Narrative Structures in the Middle English Romances</hi>. Austin: University of Texas Press, 1978.</bibl>
+ <bibl>Wright, Stephen K. <hi rend="italic">The Vengeance of Our Lord: Medieval Dramatizations of the Destruction</hi><hi rend="italic"> of Jerusalem</hi>. Toronto: Pontifical Institute of Mediæval Studies, 1989.</bibl>
+ <bibl>Yeager, Suzanne M. “The Siege of Jerusalem and Biblical Exegesis: Writing about Romans in Fourteenth-Century England.” <hi rend="italic">The Chaucer Review</hi> 39 (2004), 70–102.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Jerusalem in Medieval Narrative</hi>. Cambridge: Cambridge University Press, 2008.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Jewish Identity in ‘The Siege of Jerusalem’ and Homiletic Texts: Models of Penance and Victims of Vengeance for the Urban Apocalypse.” <hi rend="italic">Medium Ævum</hi> 80 (2011), 56–84.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Racial Imagination and the Theater of War: Captivity and Execution in <hi rend="italic">Richard, Coer de Lion</hi>.” In <hi rend="italic">A Companion to British Literature, </hi><hi rend="italic">Volume I: Medieval Literature 700–1450. </hi>Ed. Robert DeMaria, Jr., Heesok Chang, and Samantha Zacher. Chichester: John Wiley &amp; Sons, 2014. Pp. 81–96.</bibl>
+ <bibl>Zissos, Andrew, ed. <hi rend="italic">A Companion to the Flavian Age of Imperial Rome</hi>. Malden, MA: Wiley Blackwell, 2016.</bibl></listBibl>
+ </div></body></text></TEI>

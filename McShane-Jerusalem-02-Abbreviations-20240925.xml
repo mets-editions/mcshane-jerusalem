@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="McShane-Jerusalem-02-Abbreviations-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Abbreviations List</title><author>McShane, Kara L.</author><author>Wright, Mark J. B.</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp><resp from="2020-10" to="2020-12">Checked and corrected bibliographic references</resp><resp from="2022-01" to="2023-06">Encoded TEI</resp><resp from="2018-11" to="2023-06">Ensured adherence to METS Style Guide</resp><resp from="2018-11" to="2023-06">Entered corrections for digital edition</resp><resp from="2018-11" to="2023-06">Entered corrections for print edition</resp><resp from="2020-07" to="2021-07">Formatted for print edition</resp><resp from="2022-01" to="2023-06">Formatted for XML export</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2023-11" to="2023-11">Audited documents prior to print/export</resp><resp from="2023-08" to="2023-09">Collected metadata</resp><resp from="2022-04" to="2024-06">Encoded TEI</resp><resp from="2020-07" to="2023-10">Ensured adherence to METS Style Guide</resp><resp from="2020-07" to="2023-10">Entered corrections for digital edition</resp><resp from="2020-07" to="2023-10">Entered corrections for print edition</resp><resp from="2022-04" to="2023-09">Formatted for XML export</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-07" to="2024-07">Uploaded / Published Digital Edition</resp><resp from="2023-10" to="2023-10">Collected metadata</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp>Copyedited and proofread</resp><resp>Ensured adherence to METS Style Guide</resp><resp>Reviewed edition for consistency and audience</resp><resp>Reviewed edition for content and scholarship</resp><resp>Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-02" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published Digital Edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp>Copyedited and proofread</resp><resp>Ensured adherence to METS Style Guide</resp><resp>Reviewed edition for consistency and audience</resp><resp>Reviewed edition for content and scholarship</resp><resp>Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-05" to="2024-06">Encoded TEI</resp><resp from="2024-01" to="2024-03">Audited documents prior to print/export</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2020-10" to="2021-01">Audited documents prior to print/export</resp><resp from="2020-10" to="2021-01">Collated and entered corrections</resp><resp from="2020-10" to="2021-01">Copyedited and proofread</resp><resp from="2018-11" to="2023-10">Ensured adherence to METS Style Guide</resp><resp from="2018-11" to="2023-10">Entered corrections for digital edition</resp><resp from="2018-11" to="2023-10">Entered corrections for print edition</resp><resp from="2020-10" to="2021-01">Reviewed edition for consistency and audience</resp><resp from="2020-10" to="2021-01">Reviewed edition for content and scholarship</resp><resp from="2020-10" to="2021-01">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mario Bisciotti</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lisa Fagin Davis</persName><orgName>Medieval Academy of America</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Sue Gleason</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Andrea Noto</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Caleb Prus</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Assistant Editor, Editorial Board</resp></respStmt><respStmt><persName>Alexander J. Zawacki</persName><orgName>University of Rochester</orgName><resp>Mellon Fellow in the Digital Humanities, Editorial Staff</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Unknown</author><editor>McShane, Kara L.</editor><editor>Wright, Mark J. B.</editor><title>The Destruction of Jerusalem, or Titus and Vespasian</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2021</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/mcshane-jerusalem/blob/main/mcshane-jerusalem-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="McShane-Jerusalem-02-Abbreviations"/><div type="text">
+ <list><item style="abbreviation-listitem">A<space rend="indent1"/>British Library Additional 36523</item>
+ <item style="abbreviation-listitem">Addit<space rend="indent1"/>British Library Additional 36983</item>
+ <item style="abbreviation-listitem">C<space rend="indent1"/>British Library Harley 4733</item>
+ <item style="abbreviation-listitem"><hi rend="italic">CA</hi><space rend="indent1"/>Gower, <hi rend="italic">The Confessio Amantis</hi>, ed. Peck</item>
+ <item style="abbreviation-listitem">Chester<space rend="indent1"/><hi rend="italic">The Chester Mystery Cycle</hi>, ed. Lumiansky and Mills</item>
+ <item style="abbreviation-listitem">Cov<space rend="indent1"/>Coventry, City Records Office MS 325/1</item>
+ <item style="abbreviation-listitem"><hi rend="italic">CT</hi><space rend="indent1"/>Chaucer, <hi rend="italic">The Canterbury Tales</hi>, ed. Benson</item>
+ <item style="abbreviation-listitem">D<space rend="indent1"/>Bodleian Digby 230</item>
+ <item style="abbreviation-listitem">Douce<space rend="indent1"/>Bodleian Douce 126</item>
+ <item style="abbreviation-listitem"><hi rend="italic">EH</hi><space rend="indent1"/>Eusebius, <hi rend="italic">Ecclesiastical History</hi></item>
+ <item style="abbreviation-listitem"><hi rend="italic">GN</hi><space rend="indent1"/><hi rend="italic">Gospel of Nicodemus</hi>, ed. Hulme</item>
+ <item style="abbreviation-listitem">Herbert<space rend="indent1"/><hi rend="italic">Titus and Vespasian</hi>, ed. J. A. Herbert</item>
+ <item style="abbreviation-listitem"><hi rend="italic">HJW</hi><space rend="indent1"/>Mason, <hi rend="italic">A History of the Jewish War A.D. 66</hi>–<hi rend="italic">74</hi></item>
+ <item style="abbreviation-listitem"><hi rend="italic">JW</hi><space rend="indent1"/>Josephus, <hi rend="italic">The Jewish War</hi>, ed. Thackeray</item>
+ <item style="abbreviation-listitem"><hi rend="italic">LA</hi><space rend="indent1"/>Jacobus de Voragine, <hi rend="italic">Legenda Aurea</hi>, trans. Ryan</item>
+ <item style="abbreviation-listitem"><hi rend="italic">MED</hi><space rend="indent1"/><hi rend="italic">Middle English Dictionary</hi></item>
+ <item style="abbreviation-listitem">MS<space rend="indent1"/>Bodleian Laud Misc 622 [base text]</item>
+ <item style="abbreviation-listitem">Munro<space rend="indent1"/>Munro, “Edition and Study”</item>
+ <item style="abbreviation-listitem">N-Town<space rend="indent1"/><hi rend="italic">The N-Town Plays</hi>, ed. Sugano</item>
+ <item style="abbreviation-listitem">O<space rend="indent1"/>Beinecke Osborn A.11</item>
+ <item style="abbreviation-listitem"><hi rend="italic">PL</hi><space rend="indent1"/><hi rend="italic">Patrologia Latina</hi>, ed. Migne</item>
+ <item style="abbreviation-listitem"><hi rend="italic">SJ</hi><space rend="indent1"/><hi rend="italic">The </hi><hi rend="italic">Siege of Jerusalem</hi>, ed. Livingston</item>
+ <item style="abbreviation-listitem">Towneley<space rend="indent1"/><hi rend="italic">The Towneley Plays</hi>, ed. Stevens and Cawley</item>
+ <item style="abbreviation-listitem">Whiting<space rend="indent1"/>Whiting, <hi rend="italic">Proverbs, Sentences, and Proverbial Phrases</hi></item>
+ <item style="abbreviation-listitem">York<space rend="indent1"/><hi rend="italic">The York Corpus Christi Plays</hi>, ed. Davidson</item>
+ </list></div></body></text></TEI>
