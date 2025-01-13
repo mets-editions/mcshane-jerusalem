@@ -2,7 +2,7 @@
 
 This repository is for the edition _The Destruction of Jerusalem, or Titus and Vespasian_, edited by Kara L. McShane and Mark J. B. Wright. It contains:
 
-- TEI-XML files of the digital edition. Last file updated: 09/30/2024
+- TEI-XML files of the digital edition. Last file updated: 01/13/2025
 
 - A PDF of the entire edition. Current version: 09/25/2024
 
